@@ -1,3 +1,5 @@
+#A replication of my daughter's activity idea jar. The user just needs to decide whether the activity should be indoors or outdoors and the program randomly selects an activity.
+
 import random
 
 indoor_activities = ["Painting",
